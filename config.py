@@ -1,0 +1,1 @@
+keywords_from_text = 'none' # 'textrank'
